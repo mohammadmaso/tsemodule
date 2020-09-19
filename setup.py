@@ -10,7 +10,7 @@ s = setup(
     version="1.0.0",
     license="MIT",
     description="",
-    url='https://github.com/mohammadmaso/tsemodule",
+    url="https://github.com/mohammadmaso/tsemodule",
     packages=find_packages(),
     install_requires=[],
     python_requires = ">= 3.4",

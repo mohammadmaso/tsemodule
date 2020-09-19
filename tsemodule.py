@@ -1,7 +1,7 @@
 #code by @Python4finance
 import pandas as pd
 class stock:
-    def stock(stockname="",value=100):
+    def stock(self,stockname="",value=100):
         stocknames = {
         "ABAD1":"59612098290740355",
         "ABDI1":"49054891736433700",
