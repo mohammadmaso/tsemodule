@@ -10,10 +10,10 @@ s = setup(
     version="1.0.0",
     license="MIT",
     description="",
-    url='<your_github_repo_url>",
+    url='https://github.com/mohammadmaso/tsemodule",
     packages=find_packages(),
     install_requires=[],
     python_requires = ">= 3.4",
-    author="<you>",
-    author_email="<your_email>",
+    author="Mohammad Maso",
+    author_email="m.mh.itg@gmail.com",
     )
