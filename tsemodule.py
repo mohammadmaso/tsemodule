@@ -1,6 +1,6 @@
 #code by @Python4finance
 import pandas as pd
-if __name__ == "__main__":
+class stock:
     def stock(stockname="",value=100):
         stocknames = {
         "ABAD1":"59612098290740355",
